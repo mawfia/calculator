@@ -43,8 +43,7 @@ function mapValue(value){
 
 function getValue(e){
 
-	console.log(e.key + " " + e.which + " " + e.code);
-	//if(e.which > 47 && e.which < 58) mapValue(e.key);
+	//console.log(e.key + " " + e.which + " " + e.code);
 	if(e.which === 13) mapValue('=');
 	else if(e.which === 0) mapValue('C');
 	else mapValue(e.key);

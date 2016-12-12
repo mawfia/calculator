@@ -16,7 +16,7 @@ TECHNOLOGY USED:
 
 8.  The application is deployed on a AWS account for cloud services.
 
-This web application may be viewed at: http://mawfia.com/calculator/
+This web application may be viewed at: http://mawfia.com/calculator.html
 
 Current Maintainer:
  * Michael Williams
